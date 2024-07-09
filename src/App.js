@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aryan React
+          Aryan1 React
         </a>
       </header>
     </div>
